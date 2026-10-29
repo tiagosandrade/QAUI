@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" fill="none">
+  <rect x="24" y="24" width="208" height="208" rx="48" fill="#111625" stroke="#FF2D55" stroke-width="8"/>
+  <!-- Browser top bar dots -->
+  <circle cx="58" cy="56" r="7" fill="#FF2D55"/>
+  <circle cx="82" cy="56" r="7" fill="#FFB800"/>
+  <circle cx="106" cy="56" r="7" fill="#00D68F"/>
+  <line x1="32" y1="80" x2="224" y2="80" stroke="#26304D" stroke-width="5"/>
+  <!-- Ripple rings -->
+  <circle cx="122" cy="140" r="42" stroke="#FF2D55" stroke-width="4" stroke-dasharray="10 8" opacity="0.55"/>
+  <circle cx="122" cy="140" r="24" fill="#FF2D55" fill-opacity="0.2" stroke="#FF2D55" stroke-width="4"/>
+  <!-- Check badge -->
+  <circle cx="182" cy="116" r="22" fill="#00D68F"/>
+  <path d="M172 116L179 123L193 109" stroke="#0B1320" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- High-contrast pointer -->
+  <path d="M118 134L118 204L137 186L152 214L166 207L151 179L178 179L118 134Z" fill="#FF2D55" stroke="#FFFFFF" stroke-width="7" stroke-linejoin="round"/>
+</svg>

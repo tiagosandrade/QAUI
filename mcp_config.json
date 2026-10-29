@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "surface-testing-playwright": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@playwright/mcp@latest",
+        "--browser",
+        "chrome",
+        "--isolated",
+        "--caps",
+        "vision,devtools",
+        "--console-level",
+        "warning",
+        "--viewport-size",
+        "1366x820"
+      ]
+    }
+  }
+}

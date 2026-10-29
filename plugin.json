@@ -1,0 +1,18 @@
+{
+  "name": "qaui",
+  "displayName": "QAUI — Surface Testing",
+  "version": "1.0.0",
+  "description": "Project-agnostic visual surface & smoke testing with an isolated live browser, visible animated mouse pointer, console/network/a11y health audits, and Playwright regression export.",
+  "logo": "assets/logo.svg",
+  "author": {
+    "name": "Tiago Andrade",
+    "url": "https://github.com/tiagosandrade"
+  },
+  "homepage": "https://github.com/tiagosandrade/QAUI",
+  "repository": "https://github.com/tiagosandrade/QAUI",
+  "suggestedPrompts": [
+    "Run a visual surface test on this project and generate a health report",
+    "Simulate a slow step-by-step user flow with visible mouse pointer on https://example.com",
+    "Audit the main routes of my app for console errors, broken assets, and layout issues"
+  ]
+}
